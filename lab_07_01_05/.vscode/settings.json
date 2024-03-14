@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sort.h": "c",
+        "func.h": "c",
+        "filter.h": "c"
+    }
+}

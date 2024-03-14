@@ -1,0 +1,7 @@
+ogurets 4
+ogurets 7
+pomidor 2
+pomidor 5
+pomidor 6
+pomidor 9
+ramen 18

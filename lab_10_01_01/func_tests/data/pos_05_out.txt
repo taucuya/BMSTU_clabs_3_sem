@@ -1,0 +1,9 @@
+pomidor 1
+pomidor 2
+temyan 9
+ogurets 4
+ogurets 4
+ogurets 5
+ogurets 6
+ogurets 8
+luk 4

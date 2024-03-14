@@ -1,0 +1,5 @@
+pomidor 23
+ogurets 5
+morkovka 7
+luk 15
+perets 56
